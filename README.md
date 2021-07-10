@@ -1,3 +1,7 @@
 # Proyectos Varios Carlos Lázaro
 
- Sitio personal Carlos Lázaro - Consultor Independiente
+ Repositorio de proyectos personales
+
+ ## Proyectos
+
+ - [Landing Page de tipo CV](https://celazaro.github.io/Proyectos-varios/Landing-page-CLA)
