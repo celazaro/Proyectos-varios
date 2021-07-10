@@ -4,4 +4,4 @@
 
  ## Proyectos
 
- - [Landing Page de tipo CV](https://celazaro.github.io/Proyectos-varios/Landing-page-CLA)
+ - [Landing Page de tipo CV](https://celazaro.github.io/Proyectos-varios/Landing-page-CLA/pagina-personal.html)
